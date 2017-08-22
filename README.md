@@ -7,7 +7,7 @@ With linear regression we are calculating the MEAN value of y for a given value 
 response variable - explanatory variable
 dependent variable - independent variable
 
-y axis - dependent variable
+y axis - dependent variable  
 x axis - independent variable 
 
 Least squares - sum of all the squared deviations is smallest.  We square the deviations because some are positive and some are negative
@@ -23,11 +23,9 @@ Null Hypothesis - independent variable has no effect on dependent variable (slop
 
 Coefficient - slope
 
-P Value
-Statistically significant - results didn't happen by chance.
+P Value - statistical significance - results didn't happen by chance.
 P Value > 0.05 means results are not statistically significant and we cannot reject the null hypothesis
 
-R2
 R2 - measures the fit of the line to the data.
 R2 = 1 means x predicts all values of y.
 Conversely, R2 = 0 means x predicts no values of y
