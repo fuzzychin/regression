@@ -10,24 +10,24 @@ dependent variable - independent variable
 y axis - dependent variable
 x axis - independent variable 
 
-- Least squares - sum of all the squared deviations is smallest.  We square the deviations because some are positive and some are negative
+Least squares - sum of all the squared deviations is smallest.  We square the deviations because some are positive and some are negative
 
-- Extrapolation - trying to predict values of Y for values of X outside the range of X
+Extrapolation - trying to predict values of Y for values of X outside the range of X
 
-- Null Hypothesis - there is no linear relationship
+Null Hypothesis - there is no linear relationship
 Alternative Hypothesis - a linear relationship exists
 
 ## Key elements of model summary
 
 Null Hypothesis - independent variable has no effect on dependent variable (slope = 0)
 
-- Coefficient - slope
+Coefficient - slope
 
-- P Value
+P Value
 Statistically significant - results didn't happen by chance.
 P Value > 0.05 means results are not statistically significant and we cannot reject the null hypothesis
 
--R2
+R2
 R2 - measures the fit of the line to the data.
 R2 = 1 means x predicts all values of y.
 Conversely, R2 = 0 means x predicts no values of y
