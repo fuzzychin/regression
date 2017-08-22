@@ -4,10 +4,10 @@ Used to predict the value of a variable given another variable
 
 With linear regression we are calculating the MEAN value of y for a given value of x
 
-response variable - explanatory variable
+response variable - explanatory variable  
 dependent variable - independent variable
 
-y axis - dependent variable  
+y axis - dependent variable
 x axis - independent variable 
 
 Least squares - sum of all the squared deviations is smallest.  We square the deviations because some are positive and some are negative
